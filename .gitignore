@@ -37,4 +37,4 @@ wheels/
 *.pot
 *.pyc
 __pycache__
-#media
+media
